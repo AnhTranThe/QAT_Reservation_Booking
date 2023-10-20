@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QAT_Booking.API", "src\QAT_Booking.API\QAT_Booking.API.csproj", "{2A0B4D84-C30E-4886-BD4D-9B048E02E068}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QAT_Booking.Core", "src\QAT_Booking.Core\QAT_Booking.Core.csproj", "{5506DAC2-8D82-4E14-89BF-C3B4E98D37D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QAT_Booking.Data", "src\QAT_Booking.Data\QAT_Booking.Data.csproj", "{99C4DD07-78A1-49AD-BBB1-7FCC09BB56BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QAT_Booking.MVC", "src\QAT_Booking.MVC\QAT_Booking.MVC.csproj", "{CF2A50E2-EA12-4167-AC1A-6ABAB8047F88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A0B4D84-C30E-4886-BD4D-9B048E02E068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0B4D84-C30E-4886-BD4D-9B048E02E068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0B4D84-C30E-4886-BD4D-9B048E02E068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0B4D84-C30E-4886-BD4D-9B048E02E068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5506DAC2-8D82-4E14-89BF-C3B4E98D37D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5506DAC2-8D82-4E14-89BF-C3B4E98D37D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5506DAC2-8D82-4E14-89BF-C3B4E98D37D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5506DAC2-8D82-4E14-89BF-C3B4E98D37D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99C4DD07-78A1-49AD-BBB1-7FCC09BB56BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C4DD07-78A1-49AD-BBB1-7FCC09BB56BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C4DD07-78A1-49AD-BBB1-7FCC09BB56BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C4DD07-78A1-49AD-BBB1-7FCC09BB56BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2A50E2-EA12-4167-AC1A-6ABAB8047F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2A50E2-EA12-4167-AC1A-6ABAB8047F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2A50E2-EA12-4167-AC1A-6ABAB8047F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2A50E2-EA12-4167-AC1A-6ABAB8047F88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
