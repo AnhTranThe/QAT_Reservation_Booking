@@ -6,4 +6,10 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\QAT_Booking.Data\QAT_Booking.Data.csproj" />
+      <ProjectReference Include="..\QAT_Booking.Utilities\QAT_Booking.Utilities.csproj" />
+      <ProjectReference Include="..\QAT_Booking.ViewModels\QAT_Booking.ViewModels.csproj" />
+    </ItemGroup>
+
 </Project>
